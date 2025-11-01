@@ -66,6 +66,22 @@ To run this project, you'll need:
    dotnet run
    ```
 
+### Completed Task
+
+![alt text](<Screenshot 2025-11-02 at 1.39.20 AM.png>)
+
+### Pending Task
+
+![alt text](<Screenshot 2025-11-02 at 1.39.02 AM.png>)
+
+### Create Task
+
+![alt text](<Screenshot 2025-11-02 at 1.39.59 AM.png>)
+
+### Delete Task
+
+![alt text](<Screenshot 2025-11-02 at 1.42.30 AM.png>)
+
 ## Special Thanks
 
 This project is a clone of HadiaFaisal19/TaskManagementApp. Special thanks to the original author for the inspiration and foundation.
